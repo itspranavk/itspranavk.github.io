@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: >
+  Software/Research Engineer @ UM2ii
+
+  Hello
 
 profile:
   align: right
