@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2022-10-24
+inline: false
+title: Paper accepted for MedNeurIPS 2022 Workshop
 ---
 
-A simple inline announcement.
+![Illustration of the CheXViz framework](../../assets/img/fl.png)
