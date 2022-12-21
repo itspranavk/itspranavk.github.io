@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Software/Research Engineer @ UM2ii
+  Research Engineer @ UM2ii
 
 profile:
   align: right
