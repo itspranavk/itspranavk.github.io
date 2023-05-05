@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Research Engineer @ UM2ii
+  CS + Math @ UMD • Software Engineer @ UM2ii
 
 profile:
   align: right
