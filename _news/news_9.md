@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four abstracts accepted to 2024 Society for Imaging Informatics in Medicine Annual Meeting Annual Meeting.
+Four abstracts accepted to SIIM 2024.
