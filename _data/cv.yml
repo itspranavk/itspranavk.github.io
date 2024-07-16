@@ -3,18 +3,16 @@
   contents:
     - name: Full Name
       value: Pranav Kulkarni
-    - name: Languages
-      value: English, Hindi, Marathi
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Computer Science
+    - title: B.S. in Computer Science
       institution: University of Maryland, College Park
       year: 2022
       description:
         - Machine Learning Track
-    - title: Bachelor of Science in Mathematics
+    - title: B.S. in Mathematics
       institution: University of Maryland, College Park
       year: 2022
 
