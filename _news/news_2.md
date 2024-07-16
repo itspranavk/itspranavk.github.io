@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-01
+date: 2023-09-01
 inline: true
 related_posts: false
 ---
 
-One paper accepted to Journal of the American College of Radiology.
+Our paper on coarse race and ethnicity labels masking granular biases in DL models has been accepted for publication in <em>Radiology</em>.

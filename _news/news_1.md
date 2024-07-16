@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-01
+date: 2022-11-01
 inline: true
 related_posts: false
 ---
 
-One paper accepted to Journal of Digital Imaging.
+Our short paper on using federated learning to make toy datasets on Kaggle clinically useful for DL has been accepted to the <em>Medical Imaging meets NeurIPS Workshop</em> at NeurIPS 2022.

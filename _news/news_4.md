@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-01
+date: 2024-04-01
 inline: true
 related_posts: false
 ---
 
-Two abstracts accepted to RSNA 2023.
+Our paper on undetectable adversarial bias attacks on vulnerable patient populations has been accepted for an oral presentation at MIDL 2024.

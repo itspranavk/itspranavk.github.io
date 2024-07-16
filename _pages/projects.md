@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Research
+permalink: /research/
 description: A growing collection of your cool projects.
-nav: false
+nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: ["Federated Learning", "Efficient AI", "AI Security, Fairness, and Bias"]
 horizontal: false
 ---
 
