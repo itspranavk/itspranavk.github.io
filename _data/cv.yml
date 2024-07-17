@@ -3,8 +3,6 @@
   contents:
     - name: Email Address
       value: <a href="mailto:pranavk@umd.edu">pranavk@umd.edu</a>
-    - name: Phone Number
-      value: (240) 484-3190
     - name: Current Position
       value: Bioinformatics Software Engineer I <br>University of Maryland Institute for Health Computing
     - name: Citations and h-index
@@ -14,15 +12,15 @@
   type: time_table
   contents:
     - title: BS in Computer Science
-      institution: University of Maryland-College Park
-      year: May 2022
+      institution: University of Maryland, College Park, MD
+      year: Aug 2018 - May 2022
       description:
         - Machine Learning Track.
         - Completed <span class="font-weight-bold">Capstone Research in Machine Learning</span> with Dr.Tom Goldstein on adversarial attacks with semantic perturbations and fast gradient sign method on a LLM for detecting AI-generated fake news articles.
         - Complete the <span class="font-weight-bold">First-Year Innovation and Research Experience</span> with Dr. Müge Karagöz.
     - title: BS in Mathematics
-      institution: University of Maryland-College Park
-      year: May 2022
+      institution: University of Maryland, College Park, MD
+      year: Aug 2018 - May 2022
       description:
         - Completed dual-degree in Mathematics.
 
@@ -94,10 +92,10 @@
       institution: Data Curation and Augmentation in Medical Imaging Workshop, IEEE/CVF Conference on Computer Vision and Pattern Recognition
     - year: 2019
       title: Summer Fellowship Award
-      institution: First-Year Innovation and Research Experience (FIRE) program, University of Maryland-College Park.
+      institution: First-Year Innovation and Research Experience (FIRE) program, University of Maryland.
     - year: 2019
       title: 125 Mile E-Bike Challenge Preliminary Design Competition Award
-      institution: A. James Clark School of Engineering, University of Maryland-College Park.
+      institution: A. James Clark School of Engineering, University of Maryland.
     - year: 2018 - 2022
       title: Semester Academic Honors (Dean's List)
-      institution: College of Computer, Mathematical, and Natural Sciences, University of Maryland-College Park.
+      institution: College of Computer, Mathematical, and Natural Sciences, University of Maryland.
