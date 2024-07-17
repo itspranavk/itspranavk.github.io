@@ -1,70 +1,103 @@
-- title: General Information
+- title: Pranav Kulkarni
   type: map
   contents:
-    - name: Full Name
-      value: Pranav Kulkarni
+    - name: Email Address
+      value: <a href="mailto:pranavk@umd.edu">pranavk@umd.edu</a>
+    - name: Phone Number
+      value: (240) 484-3190
+    - name: Current Position
+      value: Bioinformatics Software Engineer I <br>University of Maryland Institute for Health Computing
+    - name: Citations and h-index
+      value: <a href="https://scholar.google.com/citations?user=XycDx5MAAAAJ">Google Scholar</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: B.S. in Computer Science
-      institution: University of Maryland, College Park
-      year: 2022
+    - title: BS in Computer Science
+      institution: University of Maryland-College Park
+      year: May 2022
       description:
-        - Machine Learning Track
-    - title: B.S. in Mathematics
-      institution: University of Maryland, College Park
-      year: 2022
+        - Machine Learning Track.
+        - Completed <span class="font-weight-bold">Capstone Research in Machine Learning</span> with Dr.Tom Goldstein on adversarial attacks with semantic perturbations and fast gradient sign method on a LLM for detecting AI-generated fake news articles.
+        - Complete the <span class="font-weight-bold">First-Year Innovation and Research Experience</span> with Dr. Müge Karagöz.
+    - title: BS in Mathematics
+      institution: University of Maryland-College Park
+      year: May 2022
+      description:
+        - Completed dual-degree in Mathematics.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Bioinformatics Software Engineer
-      institution: University of Maryland Medical Intelligent Imaging (UM2ii) Center, Baltimore, MD
-      year: 2022 - Present
+    - title: Bioinformatics Software Engineer I
+      institution: University of Maryland Institute for Health Computing, North Bethesda, MD
+      year: Apr 2024 - Present
       description:
-        - Developing state-of-the-art bioinformatics tools, pipelines, and infrastructure for the collection, processing, and analysis of radiology studies for both clinical and AI research applications.
-        - Pioneering advances in medical imaging AI through publications in novel techniques to improve clinical utility and generalizability of AI, tackling the importance of fairness and bias in AI, and other research and translational projects.
+        - Developing web-based informatics tools for clinical data analysis and visualization using VueJS.
+
+    - title: Bioinformatics Software Engineer I
+      institution: University of Maryland Medical Intelligent Imaging (UM2ii) Center, University of Maryland School of Medicine, Baltimore, MD
+      year: Aug 2022 - Apr 2024
+      description:
+        - Research focused on collaborative cross-domain intelligence systems, resource-efficient AI, adversarial bias attacks, and other translational research projects.
+        - Developed tools for processing and analyzing medical images from radiology PACS/VNA systems. 
 
     - title: Head Teaching Assistant
-      institution: University of Maryland, College Park, MD
-      year: 2021 - 2022
+      institution: Department of Computer Science, University of Maryland, College Park, MD
+      year: Jan 2021 - May 2022
       description:
-        - Taught courses CMSC132 and CMSC330 covering object-oriented programming, programming language paradigms, and finite-state machines.
-        - Led weekly recitations for over 200 students and facilitated review sessions for over 2000 students.
-        - Planned and restructured course materials, managed over 50 other TAs, and held office hours to help students.
+        - Held weekly recitations for over 200 students, facilitated review sessions for over 2000 students, planned and restructured course material, managed over 50 teaching assistants, and held office hours.
 
-    - title: Undergraduate Student Researcher
-      institution: University of Maryland, College Park, MD
-      year: 2019
+    - title: MATLAB Tutor
+      institution: Department of Mathematics, University of Maryland, College Park, MD
+      year: Sep 2019 - Mar 2020
       description:
-        - Explored the applications of machine learning in reconstructing tree-structure of particles splitting into their constituents using TensorFlow and analyzed the performance of clustering algorithms for jet reconstruction.
+        - Provided one-on-one tutoring to undergraduate students in MATLAB programming for linear algebra, differential equations, and multivariate calculus.
+        - Assisted students in applying fundamental concepts in MATLAB that were tailored to their course and experience.
 
+    - title: Summer Research Fellow
+      institution: The First-Year Innovation and Research Experience, University of Maryland, College Park, MD
+      year: May 2019 - Aug 2019
+      description:
+        - Applied machine learning to reconstruct tree-structure of particles splitting for the Compact Muon Solenoid experiment as part of CERN's Large Hadron Collider.
+
+- title: Coursework and Skills
+  type: nested_list
+  contents:
+    - title: Computational Coursework
+      items: 
+        - Geometric Computer Vision, Computer Vision, Deep Learning, machine Learning, Artificial Intelligence, Algorithms, Data Structures, Data Science, Functional Programming, Object-Oriented Programming
+    - title: Mathematics Coursework
+      items:
+        - Linear Algebra, Multivariate Calculus, Advanced Calculus, Differential Equations, Partial Differential Equations, Fourier Transforms, Statistical Analysis
+    - title: Technical Skills
+      items:
+        - Python. TensorFlow, PyTorch, Git, Linux, C/C++, C#, Java, VueJS, MATLAB, SQL
+    - title: Other Skills
+      items:
+        - Data Visualization, Data Analysis, Scientific Writing, Public Speaking
+
+- title: Inventions, Patents, and Copyrights
+  type: nested_list
+  contents:
+    - title: Systems and Methods for High-Throughput Analysis for Graphical Data
+      items: 
+        - <span class="font-weight-bold">Inventors:</span> Vishwa S. Parekh, Pranav Kulkarni, Adway Kanhere, Paul H. Yi, and Eliot L. Siegel
+        - US Patent Application No. 63/501,552. Filed May 11, 2023.
+        - PCT International Patent Application No. PCT/US2024/028956. Filed May 10, 2024.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2018 - 2022
-      items:
-        - Awarded Semester Academic Honors (Dean's List) for 7 semesters.
+    - year: 2024
+      title: Best Poster Award (Co-Author)
+      institution: Data Curation and Augmentation in Medical Imaging Workshop, IEEE/CVF Conference on Computer Vision and Pattern Recognition
     - year: 2019
-      items: 
-        - Awarded 2019 Summer Fellowship as part of the First-Year Innovation and Research Experience (FIRE) program.
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Federated Learning
-      items: 
-        - Expanding the horizons of federated learning to build collective intelligence systems.
-    - title: Data Efficiency
-      items:
-        - Addressing inefficiencies in current imaging infrastructures, data curation, transmission, and annotation for AI development and inference.
-    - title: Bias and Fairness
-      items:
-        - Identifying and tackling disparities in AI systems for healthcare.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Photography, Travel, Biogeography, etc.
+      title: Summer Fellowship Award
+      institution: First-Year Innovation and Research Experience (FIRE) program, University of Maryland-College Park.
+    - year: 2019
+      title: 125 Mile E-Bike Challenge Preliminary Design Competition Award
+      institution: A. James Clark School of Engineering, University of Maryland-College Park.
+    - year: 2018 - 2022
+      title: Semester Academic Honors (Dean's List)
+      institution: College of Computer, Mathematical, and Natural Sciences, University of Maryland-College Park.

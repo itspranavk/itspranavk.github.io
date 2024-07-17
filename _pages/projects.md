@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: My research focuses on the overarching goal of bringing AI from bench to bedside for clinical decision-making support.
 nav: true
 nav_order: 3
 display_categories: ["Federated Learning", "Efficient AI", "AI Security, Fairness, and Bias"]
