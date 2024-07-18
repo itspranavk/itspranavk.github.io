@@ -133,8 +133,10 @@
     {%- capture entrymonth -%}{%- endcapture -%}
     {%- endif -%}
 
-    {%- if entry.year -%}
+    {%- if entry.year and entry.year != "Under Review" -%}
     {%- capture entryyear -%}{{ " " }}{{ entry.year }}{%- endcapture -%}
+    {%- else -%}
+    {%- capture entryyear -%}{{ "." }}{%- endcapture -%}
     {%- endif -%}
 
     {%- capture periodical -%}{{ entrytype }}{{ entryvolumenumber }}{{ entrypages }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
