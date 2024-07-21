@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: 
 title: CV
-nav: true
+nav: false
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: Pranav_Kulkarni_CV.pdf
 ---

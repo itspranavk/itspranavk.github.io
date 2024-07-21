@@ -133,7 +133,7 @@
     {%- capture entrymonth -%}{%- endcapture -%}
     {%- endif -%}
 
-    {%- if entry.year and entry.year != "Under Review" -%}
+    {%- if entry.year" -%}
     {%- capture entryyear -%}{{ " " }}{{ entry.year }}{%- endcapture -%}
     {%- else -%}
     {%- capture entryyear -%}{{ "." }}{%- endcapture -%}
