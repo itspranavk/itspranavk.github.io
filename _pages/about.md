@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Medical Imaging × AI Researcher • SWE @ UM-IHC • CS & Math @ UMD
+  SWE @ UM-IHC • CS & Math @ UMD
 
 profile:
   align: right
@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<span class="font-weight-bold">Pranav Kulkarni</span> is a Bioinformatics Software Engineer I at the University of Maryland Institute for Health Computing (UM-IHC). He received his dual Bachelor's degrees in Computer Science and Mathematics from the University of Maryland. 
+<span class="font-weight-bold">Pranav Kulkarni</span> is a Bioinformatics Software Engineer I at the University of Maryland Institute for Health Computing (UM-IHC). Previously, he was a full-time researcher at the University of Maryland Medical Intelligent Imaging (UM2ii) center with Drs. Vishwa Parekh and Paul Yi. Pranav received his dual Bachelor's degrees in Computer Science and Mathematics from the University of Maryland in 2022. 
 
-His research focuses on the overarching goal of bringing AI from bench to bedside, spanning federated continual learning frameworks, resource-efficient AI systems, and AI security, bias, and fairness in the clinical environment. His work has been recognized through spotlight talks at international conferences, such as Medical Imaging with Deep Learning (MIDL), and patent pending technology on cloud-based medical image streaming for high-throughput AI inference.
+Pranav's research focuses on the **domain-specific challenges in ML for medical image analysis**, with the goal of advancing fundamental ML research in computer vision and improving healthcare outcomes. Primarily, his current research interests include: (1) Developing **federated continual learning** methods that integrate new data and tasks (e.g., detecting COVID-19) to tackle domain shift over time in a privacy-preserving way. (2) Using **data-centric ML** techniques to intelligently select training data (e.g., using coresets) to reduce the burden of manual annotation and enable few-shot learning. (3) Building **trustworthy and explainable AI** models to defend against adversarial bias attacks, mitigate algorithmic bias, and alleviate healthcare disparities in underserved patient populations. His work has been published in reputable conferences and journals (e.g., MIDL, ML4H, CVPR, and _Radiology_). Furthermore, Pranav has ongoing collaborations with clinicians in translational AI research on topics such as fairness and bias.
 
-In the near future, Pranav aspires to attend graduate school to carve his path as a future computer scientist. When Pranav is not talking in third person, he enjoys gardening, photography, and hiking.
+In the near future, Pranav aspires to attend graduate school to carve his path as a future computer scientist. When he is not talking in third person, Pranav enjoys collecting vintage maps, gardening, and hiking.
