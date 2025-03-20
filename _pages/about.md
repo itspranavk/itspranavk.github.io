@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am an incoming Ph.D. student at the [University of Maryland](https://www.umd.edu), advised by [Heng Huang](https://www.cs.umd.edu/~heng/). Currently, I am a software engineer with joint appointments at the [University of Maryland Institute for Health Computing (UM-IHC)](https://www.ihc.umd.edu/) and [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/). Previously, I was a full-time researcher at the University of Maryland Medical Intelligent Imaging (UM2ii) Center, advised by [Vishwa Parekh](https://scholar.google.com/citations?user=ZCJQ-ZMAAAAJ&hl=en) and [Paul Yi](https://www.stjude.org/directory/y/paul-yi.html).
+Hi! I am an incoming Ph.D. student at the [University of Maryland](https://www.umd.edu), advised by [Heng Huang](https://www.cs.umd.edu/~heng/). Currently, I am a software engineer at the [University of Maryland Institute for Health Computing (UM-IHC)](https://www.ihc.umd.edu/). Previously, I was a full-time researcher at the University of Maryland Medical Intelligent Imaging (UM2ii) Center, advised by [Vishwa Parekh](https://scholar.google.com/citations?user=ZCJQ-ZMAAAAJ&hl=en) and [Paul Yi](https://www.stjude.org/directory/y/paul-yi.html).
 
 My research is primarly focused at the intersection of machine learning, computer vision, and medical imaging, with the goal of improving healthcare outcomes. My current research interests include:
 
