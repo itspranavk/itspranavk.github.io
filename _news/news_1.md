@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-11-01
+date: 2025-04-29
 inline: true
 related_posts: false
 ---
 
-Our short paper on using federated learning to make toy datasets on Kaggle clinically useful for DL has been accepted to the <em>Medical Imaging meets NeurIPS Workshop</em> at NeurIPS 2022.
+Received UM-IHC Travel Award to support my travel for [MIDL'25](https://2025.midl.io/).

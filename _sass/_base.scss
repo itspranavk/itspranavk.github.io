@@ -21,6 +21,13 @@ table {
   }
 }
 
+table.table-sm {
+  td, th {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+  }
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
