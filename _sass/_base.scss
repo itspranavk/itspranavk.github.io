@@ -511,13 +511,11 @@ footer.sticky-bottom {
         width: 100%;
         min-width: 80px;
         max-width: 200px;
+        margin-bottom: 0.5rem;
       }
       .abbr {
         margin-bottom: 0.5rem;
         abbr {
-          width: 100%;
-          min-width: 80px;
-          max-width: 200px;
           display: inline-block;
           background-color: var(--global-theme-color);
           padding-left: 1rem;

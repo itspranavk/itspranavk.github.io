@@ -2,13 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: >
+subtitle: > 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: pranavk [at] umd [dot] edu
+  address: >
+    6116 Executive Boulevard,
+    North Bethesda, MD 20852
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
