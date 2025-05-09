@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted for spotlight talk at [IEEE QCE'24](https://qce.quantum.ieee.org/2024/) in Montreal.
+One paper accepted for oral presentation at [IEEE QCE'24](https://qce.quantum.ieee.org/2024/) in Montreal.
