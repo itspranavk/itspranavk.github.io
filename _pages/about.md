@@ -9,8 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    6116 Executive Boulevard,
-    North Bethesda, MD 20852
+    <div align="center">
+    <p> 6116 Executive Blvd, Suite 200 <br>
+    North Bethesda, MD 20852 <br>
+    <tt> pranavk [at] umd.edu </tt> <p/>
+    </div>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

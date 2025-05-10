@@ -7,5 +7,11 @@
 "Preprint":
   color: "#b31b1b"
 
-"Review":
+"Review Article":
   color: "#5d3fd3"
+
+"Short Paper":
+  color: "#e86100"
+
+"Tiny Paper":
+  color: "#e86100"
