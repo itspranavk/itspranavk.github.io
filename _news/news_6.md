@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-05
+date: 2025-07-11
 inline: true
 related_posts: false
 ---
 
-My first-authored paper was acknowledged as the second Most Reproducible Paper at [MIDL'24](https://2024.midl.io/).
+One paper accepted at [ICCV CVAMD'25](https://cvamd.github.io/CVAMD2025/) in Honolulu.

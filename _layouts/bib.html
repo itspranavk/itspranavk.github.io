@@ -118,7 +118,7 @@
     {% if entry.type == "article" -%}
     {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
     {%- elsif proceedings contains entry.type -%}
-    {%- capture entrytype -%}In <em>{{entry.booktitle}}</em>{%- endcapture -%}
+    {%- capture entrytype -%}<em>{{entry.booktitle}}</em>{%- endcapture -%}
     {%- else -%}
     {%- capture entrytype -%}{%- endcapture -%}
     {%- endif -%}
