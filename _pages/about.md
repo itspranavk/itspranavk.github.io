@@ -12,7 +12,7 @@ profile:
     <div align="center">
     <p> 6116 Executive Blvd, Suite 200 <br>
     North Bethesda, MD 20852 <br>
-    <tt> pranavk [at] umd.edu </tt> <p/>
+    <tt> pranavk [at] umd [dot] edu </tt> <p/>
     </div>
 
 news: true  # includes a list of news items
