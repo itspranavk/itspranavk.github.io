@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-16
+date: 2026-01-12
 inline: true
 related_posts: false
 ---
 
-One paper accepted for oral presentation at [IEEE QCE'24](https://qce.quantum.ieee.org/2024/) in Montreal.
+One paper accepted for presentation at [IEEE ISBI](https://biomedicalimaging.org/2026/) in London.
