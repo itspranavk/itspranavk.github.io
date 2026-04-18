@@ -1,6 +1,12 @@
 "Oral":
   color: "#2698ba"
 
+"Highlight":
+  color: "#2698ba"
+
+"Spotlight":
+  color: "#2698ba"
+
 "Book Chapter":
   color: "#228b22"
 

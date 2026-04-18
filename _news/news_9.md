@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted at [CVPR'26](https://cvpr.thecvf.com/) in Denver.
+One paper accepted at [CVPR'26](https://cvpr.thecvf.com/) as **highlight**.
