@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-05
+date: 2026-06-08
 inline: true
 related_posts: false
 ---
 
-One tiny paper accepted at [ICLR'25 Workshop on Bidirectional Human-AI Alignment](https://bialign-workshop.github.io/#/).
+Awarded an [NVIDIA Academic Grant](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/) under the Data Science CFP for project titled, "Curie8: Accelerating Data Curation for Next-Generation Medical Image Analysis."

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-07
+date: 2026-10-01
 inline: true
 related_posts: false
 ---
 
-A book chapter that I co-authored for the MICCAI Society's Book on *[Federated learning for Medical Imaging](https://www.sciencedirect.com/book/9780443236419/federated-learning-for-medical-imaging)* has been published.
+Co-organized the [AMPLIFAI Challenge](https://um-ihc-ca2i.github.io/amplifai-challenge/) at MICCAI'26 and delivered an invited keynote, "Multiphase Reasoning is a Foundation for Building Trustworthy Clinical AI."
