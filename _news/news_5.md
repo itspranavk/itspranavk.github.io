@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Co-organized the [AMPLIFAI Challenge](https://um-ihc-ca2i.github.io/amplifai-challenge/) at MICCAI'26 and delivered an invited keynote, "Multiphase Reasoning is a Foundation for Building Trustworthy Clinical AI."
+Co-organized the **[AMPLIFAI Challenge](https://um-ihc-ca2i.github.io/amplifai-challenge/)** at **[MICCAI'26](https://conferences.miccai.org/2026/en/)** and delivered an invited keynote, _"Multiphase Reasoning is a Foundation for Building Trustworthy Clinical AI."_

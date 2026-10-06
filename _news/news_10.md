@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted at [IEEE ISBI'26](https://biomedicalimaging.org/2026/).
+One paper accepted at **[IEEE ISBI'26](https://biomedicalimaging.org/2026/)**.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Interviewed for a [student spotlight](https://ihc.umd.edu/student-spotlight-pranav-kulkarni/) at [UM-IHC](https://ihc.umd.edu/).
+Interviewed for a **[Student Spotlight](https://ihc.umd.edu/student-spotlight-pranav-kulkarni/)** at the [University of Maryland Institue for Health Computing](https://www.ihc.umd.edu/).
